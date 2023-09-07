@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebAppPe2.props" />
+</Project>
